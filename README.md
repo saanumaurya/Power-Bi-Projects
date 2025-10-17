@@ -12,7 +12,7 @@ The analysis is performed using **Power BI**, with interactive dashboards design
 **Total Records:** 150,000  
 **Total Columns:** 21  
 **Time Period:** Year 2024  
-**Data Source:** Simulated operational data of an NCR-based ride-hailing service.
+**Data Source:**Kaggle
 
 ### 🧾 Column Descriptions
 
